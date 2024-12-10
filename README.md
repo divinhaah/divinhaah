@@ -9,12 +9,12 @@ Hi! A developer from Brazil constantly learning every day. Welcome to the reposi
 # Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-050f2c?style=for-the-badge&logo=css3&logoColor=2dde98"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wordpress-050f2c?style=for-the-badge&logo=wordpress&logoColor=2dde98"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%2300C4CC?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%2300C4CC?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-%2300C4CC?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wordpress-%2300C4CC?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wix-%2300C4CC?style=for-the-badge&logo=wix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-%2300C4CC?style=for-the-badge&logo=hostinger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
 
