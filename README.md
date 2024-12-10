@@ -13,11 +13,16 @@ Hello! I'm Diva! A developer from Brazil constantly learning every day. Welcome 
   <img src="https://img.shields.io/badge/PHP-3EAAAF?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-3EAAAF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-3EAAAF?style=for-the-badge&logo=lua&logoColor=white"/>
+<br>
   <img src="https://img.shields.io/badge/Wordpress-3EAAAF?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wix-3EAAAF?style=for-the-badge&logo=wix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hostinger-3EAAAF?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-3EAAAF?style=for-the-badge&logo=Discord&logoColor=white"/>
+<br>
   <img src="https://img.shields.io/badge/Canva-3EAAAF.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/adobephotoshop-3EAAAF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autocad-3EAAAF?style=for-the-badge&logo=Autocad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sketchup-3EAAAF?style=for-the-badge&logo=Sketchup&logoColor=white"/>
 
 </div>
 
