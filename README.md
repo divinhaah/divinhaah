@@ -3,7 +3,7 @@
 
 # About
 
-Hi! A developer from Brazil constantly learning every day. Welcome to the repository!
+Hi! A developer from Brazil constantly learning every day. Welcome to the repository! 👨‍💻
 
 
 # Technologies
