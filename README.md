@@ -12,7 +12,9 @@ Hello! I'm Diva! A developer from Brazil constantly learning every day. Welcome 
   <img src="https://img.shields.io/badge/HTML5-3EAAAF?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-3EAAAF?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-3EAAAF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-3EAAAF?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-3EAAAF?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-3EAAAF?style=for-the-badge&logo=laravel&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Wordpress-3EAAAF?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wix-3EAAAF?style=for-the-badge&logo=wix&logoColor=white"/>
