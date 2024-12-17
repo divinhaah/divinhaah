@@ -9,6 +9,7 @@ Hello! I'm Diva! A developer from Brazil constantly learning every day. Welcome 
 # Technologies
 
 <div align="center">
+  <img src="https://img.shields.io/badge/MySQL-3EAAAF?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-3EAAAF?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-3EAAAF?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-3EAAAF?style=for-the-badge&logo=css3&logoColor=white"/>
