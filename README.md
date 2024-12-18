@@ -3,7 +3,7 @@
 
 # About
 
-Hello! I'm Diva! A developer from Brazil constantly learning every day. Welcome to the repository! 👨‍💻
+Hello! I'm Regina! A developer from Brazil constantly learning every day. Welcome to the repository! 👨‍💻
 
 
 # Technologies
